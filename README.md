@@ -1,2 +1,0 @@
-# Cpowell
-My Online portfolio
